@@ -1,0 +1,1 @@
+C:\Users\Home\AndroidStudioProjects\CollegeAppProject\buildSrc\build\classes\kotlin\main\Dep.class;C:\Users\Home\AndroidStudioProjects\CollegeAppProject\buildSrc\build\classes\kotlin\main\Versions.class
